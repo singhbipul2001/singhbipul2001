@@ -1,10 +1,12 @@
-#                           Vipul Singh - Data Engineer
+# Vipul Singh - Data Engineer
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=singhbipul2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-##  About Me
+
+## About Me
 **Data Analyst | Aspiring Data Scientist**  
-*Turning data into actionable insights that drive business growth*
+**Turning data into actionable insights that drive business growth**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)
