@@ -1,7 +1,8 @@
-# Vipul Singh - Data Analyst & Aspiring Data Scientist
-
-## 🚀 About Me
-
+#                           Vipul Singh - Data Engineer
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=singhbipul2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+##  About Me
 **Data Analyst | Aspiring Data Scientist**  
 *Turning data into actionable insights that drive business growth*
 
