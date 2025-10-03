@@ -14,7 +14,7 @@
 
 *Turning data into actionable insights that drive business growth*
 
-📊 **Domain Expertise:** Research • Retail • Ecommerce • BFSI • Digital Marketing  
+📊 **Domain Expertise:** Research • Automobile • Ecommerce • Healthcare • Digital Marketing  
 🎓 **Education:** B.Tech in Information Technology (CSJM University)  
 🌐 **Languages:** English • Hindi  
 📍 **Location:** Delhi, India
