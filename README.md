@@ -14,7 +14,7 @@
 
 *Turning data into actionable insights that drive business growth*
 
-📊 **Domain Expertise:** Research • Automobile • Ecommerce • Healthcare • Digital Marketing  
+**Domain Expertise:** Research • Automobile • Ecommerce • Healthcare • Digital Marketing  
 🎓 **Education:** B.Tech in Information Technology (CSJM University)  
 🌐 **Languages:** English • Hindi  
 📍 **Location:** Delhi, India
@@ -25,9 +25,9 @@
 
 <div align="center">
 
-## 🚀 Technical Arsenal
+##  Technical Arsenal
 
-### 💻 Languages
+###  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,7 +43,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
-### 🔧 Data Engineering & Big Data
+###  Data Engineering & Big Data
 
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-F2C811?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -53,13 +53,13 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### ☁️ Cloud Platforms
+###  Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -69,7 +69,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -77,7 +77,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-D1471D?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### 🛠️ Development Tools
+###  Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhbipul2001&show_icons=true&theme=radical&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhbipul2001&theme=radical&hide_border=true" />
@@ -109,11 +109,12 @@
 
 | Skill | Level |
 |:------|:-----:|
-| SQL & Database Design | ⭐⭐⭐⭐⭐ 95% |
-| Data Visualization | ⭐⭐⭐⭐⭐ 90% |
-| Python & PySpark | ⭐⭐⭐⭐ 85% |
-| Statistical Analysis | ⭐⭐⭐⭐ 85% |
-| Machine Learning | ⭐⭐⭐⭐ 80% |
+| SQL & Database Design | ⭐⭐⭐⭐⭐  |
+| Data Visualization | ⭐⭐⭐⭐⭐  |
+| Python | ⭐⭐⭐⭐ |
+| ETL & Scalable Pipeline | ⭐⭐⭐⭐|
+| Machine Learning & GEN AI | ⭐⭐⭐⭐|
+| Prompt Engineering & AI TooL Expert  | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -128,7 +129,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhbipul2001)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-TuGeIrnAR7cEJkNwxwkpxka8TnRX2I8/view?usp=sharing)
 
-### 💻 Coding Profiles
+###  Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/singhvipul2001/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/vipulsingh)
@@ -139,9 +140,9 @@
 
 ### 📞 Contact Details
 
-📧 **Email:** vipulabhi6@gmail.com  
-📱 **Phone:** +91 8860795483  
-📍 **Location:** Delhi, India
+ **Email:** vipulabhi6@gmail.com  
+ **Phone:** +91 8860795483  
+ **Location:** Delhi, India
 
 ---
 
